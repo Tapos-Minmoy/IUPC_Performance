@@ -1,7 +1,7 @@
 # IUPC_Performance
 | Contest                                                                                                                                                                               | Username      | Rank | Type       | Scope        |
 | --                                                                                                                                                                                    | --------      | ---- | ----       | ----         |
-| [Intra-Department Programming Contest June - 2023](https://vjudge.net/contest/564330#rank)                                                                                                      | CU_ChunoPuti  | 1    | Individual | Local        |
+| [Intra-Department Programming Contest June - 2023](https://vjudge.net/contest/564330#rank)                                                                                                      |_NULL_byte  | 1    | Individual | Local        |
 | [ICPC Asia Dhaka Regional Site Online Preliminary Contest-2021](https://icpc.global/ICPCID/2RIUV1MALLMP)                                                                                | CU_ChunoPuti  | 89   | Team       | National     |
 | [Mujib Borsho Carnival Programming Contest]()                                                                                                                                         | CU_ChunoPuti  | 9    | Team       | Regional     |
 | [BUET Inter University Programming Contest 2022](https://toph.co/c/buet-inter-university-2022/standings)                                                                               | 	CU_binaryMinds  | 94   | Team       | National     |
