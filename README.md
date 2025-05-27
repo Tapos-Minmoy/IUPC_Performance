@@ -3,6 +3,8 @@
 | --                                                                                                                                                                                    | --------      | ---- | ----       | ----         |
 | [Intra-Department Programming Contest June - 2023(solo)](https://vjudge.net/contest/564330#rank)                                                                                                      |_NULL_byte  | 1    | Individual | Local        |
 | [ICPC Asia Dhaka Regional Site Online Preliminary Contest-2021](https://icpc.global/ICPCID/2RIUV1MALLMP)                                                                                | CU_ChunoPuti  | 89   | Team       | National     |
+| Betopia DUET Inter University Programming Contest 2025](https://toph.co/c/duet-inter-university-iupc-2025/standings)                                                                                | CU_ChunoPuti  | 89   | Team       | National     |
+
 | [Mujib Borsho Carnival Programming Contest]()                                                                                                                                         | CU_ChunoPuti  | 9    | Team       | Regional     |
 | [BUET Inter University Programming Contest 2022](https://toph.co/c/buet-inter-university-2022/standings)                                                                               | 	CU_binaryMinds  | 94   | Team       | National     |
 | [Student Connect Presents SEC Inter University Junior Programming Contest, 2022](https://toph.co/c/sec-inter-university-junior-2022/standings)                                         |	CU_deepMinds  | 36    | Team       | National     |
